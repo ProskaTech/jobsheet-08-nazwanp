@@ -1,7 +1,8 @@
 ## Created By Nazwa Nurfadhilla Phitri_21343061
-Pada Jobsheet 8 mempelajari mengenai array. Array adalah sekumpulan data yang digunakan untuk menyimpan beberapa nilai dalam satu variabel, bukan mendeklarasikan variabel terpisah untuk setiap nilai. Untuk mendeklarasikan sebuah array, tentukan tipe variabel dengan tanda kurung siku. Biasanya, array adalah kumpulan elemen sejenis yang memiliki lokasi memori yang berdekatan
+Pada Jobsheet 8 mempelajari mengenai array. Array adalah sekumpulan data yang digunakan untuk menyimpan beberapa nilai dalam satu variabel, bukan mendeklarasikan variabel terpisah untuk setiap nilai. Untuk mendeklarasikan sebuah array, tentukan tipe variabel dengan tanda kurung siku. Biasanya, array adalah kumpulan elemen sejenis yang memiliki lokasi memori yang berdekatan.
 
 Penjelasan Program Latihan Sebagai Berikut :
+
 Pada Latihan 1 kita diminta untuk melakukan pengaksesan elemen array. Untuk mendeklarasikan sebuah array dalam Java, kita harus menggunakan tanda []
 (kurung siku). Adapun bentuk umum dari pendeklarasiannya adalah sebagai berikut :
  int[] ages = new int[100];
@@ -13,6 +14,7 @@ Pada Latihan 2 kita diminta untuk membuat panjang array. Dimana hasil outputnya 
 Pada Latihan 3 kita diminta untuk membuat array multidimensi. Array multidimensi merupakan array yang terdiri dari beberapa subskrip array. Array dua dimensi adalah array yang mempunyai dua subskrip array. Array tiga dimensi adalah array yang mempunyai tiga subskrip array dan seterusnya. Deklarasi array dua dimensi seperti di bawah ini, ditandai dengan tanda kurung siku sebanyak 2 pasang
 
 Penjelasan Program Tugas Sebagai Berikut :
+
 Pada Tugas 1 kita diminta untuk membuat sebuah String array yang akan menginisialisasi 7 hari dalam seminggu. Pada tugas ini kita perlu menggunakan for-loop, kemudian print semua nilai dari array. Pada latihan ini memerlukan bentuk pendeklarasiannya sebagai berikut :
 String days [] = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"};
 
